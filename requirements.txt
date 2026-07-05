@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+jupyter
+
+
+first activate env : source venv/bin/activate
+to open jupyter notebook
+jupyter-notebook notebooks/00-full-pipeline.ipynb
+in order to open app just type
+streamlit run app.py 
