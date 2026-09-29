@@ -54,3 +54,4 @@ Bank Customer Churn from Kaggle — 10,000 rows, ~20.4% churn rate. Features: cr
 Accuracy alone is misleading (79.6% by predicting all "stayed"). The models reveal a precision-recall trade-off: LR is well-calibrated but misses most churners; RF catches more at the cost of inflated probabilities.
 # CAT tick 2026-09-28_12:30:28 tick=1790598628
 # CAT tick 2026-09-29_09:17:01 tick=1790673421
+# CAT tick 2026-09-29_09:30:35 tick=1790674235
