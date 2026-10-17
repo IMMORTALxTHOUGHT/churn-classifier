@@ -95,3 +95,5 @@ Accuracy alone is misleading (79.6% by predicting all "stayed"). The models reve
 # CAT tick 2026-10-15_16:43:51
 
 # CAT tick 2026-10-15_16:45:24
+
+# CAT tick 2026-10-17_16:06:22
